@@ -2,3 +2,4 @@ Today is February 13th. I am now struggling with push local git repo to github c
 Today is February 13th. I am taking the train to meet my girl tomorrow.
 when using <no helper>, why @mails.jlu.cn appears? That make no sense, because this email
 should only be used in commiter config
+I will stick with helper manager-core or what not
