@@ -4,3 +4,4 @@ when using <no helper>, why @mails.jlu.cn appears? That make no sense, because t
 should only be used in commiter config
 I will stick with helper manager-core or what not
 A unknown author appeared in my repo history due to a change in user information
+It turns out that github matches your user information specified in the commit metadata
